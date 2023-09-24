@@ -1,0 +1,19 @@
+{
+  "name": "com.semsamoon.ecs-csharp",
+  "version": "1.0.0",
+  "displayName": "Semsam ECS",
+  "description": "Entity-Component-System",
+  "unity": "2021.3",
+  "unityRelease": "17f1",
+  "documentationUrl": "https://github.com/Semsamoon/ecs-csharp/blob/main/README.md",
+  "licensesUrl": "https://github.com/Semsamoon/ecs-csharp/blob/main/LICENSE.md",
+  "keywords": [
+    "Entity-Component-System",
+    "ECS",
+    "Semsam ECS"
+  ],
+  "author": {
+    "name": "ArsenyS",
+    "url": "https://github.com/Semsamoon"
+  }
+}
